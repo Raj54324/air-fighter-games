@@ -1,0 +1,11 @@
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body {
+    text-align: center;
+    background-color: #000;
+    overflow: hidden;
+}
+canvas {
+    background: url('https://source.unsplash.com/800x600/?sky') no-repeat center;
+    display: block;
+    margin: auto;
+}
